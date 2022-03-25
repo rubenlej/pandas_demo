@@ -1,6 +1,6 @@
 Employee,YearsExperience,Salary,LastPayout
-Tudor Cottrell,1.1,39343,3/5/2022
-Jameel Ellison,1.3,46205,2/5/2022
+Tudor Cottrell,1.1,"""39343""",3/5/2022
+Jameel Ellison,1.3,"""46205""",2/5/2022
 Koby Draper,1.5,37731,4/5/2022
 Shazia Cooper,2,,3/5/2022
 Tara Hurst,2.2,39891,3/5/2022
